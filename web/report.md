@@ -151,7 +151,7 @@ The following are the results we obtained on using different models:
 | CNN (3 - layered with Drop-Out) | 91.35%     |
 | CNN (3 - layered with Batch Normalization)    | 92.42%    |
 | MobileNet    | 89.02%    |
-| VGG-16    | ~99.4%    |
+| VGG-16    | ~97 % to 98%   |
 | Inception-v3    | 96.87%    |
 
 
